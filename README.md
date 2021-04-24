@@ -91,4 +91,4 @@ Copyright (C) 2019-2021 HERE Europe B.V.
 
 See the [LICENSE](LICENSE) file in the root of this repository for license details.
 
-Initiating code-inspector 7
+Initiating code-inspector 8
